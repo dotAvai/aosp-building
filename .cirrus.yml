@@ -7,14 +7,14 @@ env: # Environment variables to pass to all tasks
     # CHAT_ID and BOT_TOKEN are used by telegram functions. I don't want you to control my bot xD
     rclone_config: "ENCRYPTED[9c4b97e42cc6ed74e3956a6ed05f8d335c50576c3afd1c0db73989232a4f88ca4abd9f294e4d80d10590f938876c67d0]"
     CHAT_ID: "-541371826"
-    BOT_TOKEN: "1828557805:AAEq2eBG0qH8VOLRrmB3oFZVBJhY86V0OPw"
+    BOT_TOKEN: "1816197500:AAFeSXwcknDwz1chhe6DvOOyPrEFJH2MUqM"
     
     # Github variables needed so as to be able to clone private repos too without authenticating. Useful for building official roms which have private repos. The first 3 variables needs to be encrypted!! You can hide your email and username by encrypting them too if you want but that's not neccessary.
     id_rsa_pub: "empty"
     id_rsa: "empty"
     known_hosts: "empty"
-    user_email: "aswinsanker08@gmail.com"
-    user_name: "aswin11234"
+    user_email: "aswinsanker2@gmail.com"
+    user_name: "dotAvai"
     user_pass: "empty"
 
 task:
